@@ -57,8 +57,8 @@ export default function App() {
             hobi: e.target.value,
           }))}
         />
-        <label htmlFor="javascript">password</label>
-        <input
+        <label htmlFor="javascript">passwordd</label>
+        <input className="pass"
           type="password"
           id="html"
           name="fav_language"

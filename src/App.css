@@ -5,6 +5,9 @@
 .card-container {
   text-align: center;
 }
+.pass {
+  display: flex;
+}
 
 .App-logo {
   height: 40vmin;
